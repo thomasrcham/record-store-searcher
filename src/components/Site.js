@@ -11,18 +11,21 @@ export default function Site() {
       });
   }, []);
 
-  let searchable = stores ? stores.filter((s) => s.Search !== 1) : null;
+  let searchable = stores ? stores.filter((s) => s.Search === 1) : null;
 
   const search = (array, term) => {
     let query = term.split(" ").join("+");
-    array.map((s) => window.open(`${s.Website}search?q=${query}`));
+    array.forEach((s) => {
+      let searchStr = s.Search === 1 ? "search?q=" : s.Search;
+      window.open(`${s.Website}${searchStr}${query}`);
+    });
   };
 
   return (
     <form
       onSubmit={(e) => {
         e.preventDefault();
-        search(searchable, e.target.search.value);
+        search(stores, e.target.search.value);
       }}
     >
       <input type="text" name="search"></input>

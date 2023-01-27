@@ -23,7 +23,7 @@
         {
         "Store": "Comeback Vinyl",
         "Website": "https://comebackvinyl.com/",
-        "Search": 2
+        "Search": "?post_type=product&s="
         },
         {
         "Store": "Seasick Records",
@@ -48,7 +48,7 @@
         {
         "Store": "Audiogazing",
         "Website": "http://www.audiogazingmusic.com/",
-        "Search": 2
+        "Search": "search.php?search_query="
         },
         {
         "Store": "Desert Island",
@@ -63,7 +63,7 @@
         {
         "Store": "Studio Records",
         "Website": "https://studiorecordstulsa.com/",
-        "Search": 2
+        "Search": "shop-online/ols/search?keywords="
         },
         {
         "Store": "Port of Sound",
@@ -73,7 +73,7 @@
         {
         "Store": "Hi-Fi Hits",
         "Website": "https://www.hi-fihits.com/product-category/new-vinyl-lp/",
-        "Search": 2
+        "Search": "?post_type=product&s="
         },
         {
         "Store": "Underdog Records",
@@ -101,14 +101,9 @@
         "Search": 1
         },
         {
-        "Store": "Sweat",
-        "Website": "https://shop.sweatrecordsmiami.com/",
-        "Search": 2
-        },
-        {
         "Store": "Mobius Records",
-        "Website": "https://www.mobiusrecordshop.com/",
-        "Search": 2
+        "Website": "https://www.mobiusrecordshop.com/s/",
+        "Search": 1
         },
         {
         "Store": "Lunchbox Records",
@@ -121,14 +116,9 @@
         "Search": 1
         },
         {
-        "Store": "Vinyl Renaissance",
-        "Website": "https://vinylren.com/",
-        "Search": 0
-        },
-        {
         "Store": "Euclid Records",
-        "Website": "https://www.euclidrecords.com/index.jsp",
-        "Search": 2
+        "Website": "https://www.euclidrecords.com/",
+        "Search": "catalog/search.jsp?searchwords=rolling+stones"
         },
         {
         "Store": "Black Dots",
@@ -147,13 +137,13 @@
         },
         {
         "Store": "Square Cat",
-        "Website": "https://www.squarecatvinylshop.com/",
-        "Search": 2
+        "Website": "https://www.squarecatvinylshop.com/s/",
+        "Search": 1
         },
         {
         "Store": "Heavy Heads",
-        "Website": "https://www.heavyheadsrecords.com/shop-1",
-        "Search": 2
+        "Website": "https://www.heavyheadsrecords.com/",
+        "Search": "search-results?q="
         },
         {
         "Store": "Lagniappe Records",
@@ -168,7 +158,7 @@
         {
         "Store": "Vinyl Oasis",
         "Website": "https://www.vinyloasisocala.com/",
-        "Search": 2
+        "Search": "search-results-page/"
         },
         {
         "Store": "Technique Records",
@@ -183,32 +173,32 @@
         {
         "Store": "Sound Exchange",
         "Website": "https://www.soundexchangetampabay.com/",
-        "Search": 2
+        "Search": "index.php/advanced-search/?search_text="
         },
         {
         "Store": "Beachside Retro",
         "Website": "https://www.beachsideretro.com/",
-        "Search": 0
+        "Search": "search?keyword="
         },
         {
         "Store": "Autumn Records",
-        "Website": "https://www.autumnrecordsvt.com/s/shop",
-        "Search": 0
+        "Website": "https://www.autumnrecordsvt.com/s/",
+        "Search": 1
         },
         {
         "Store": "Burlington Records",
-        "Website": "https://www.burlingtonrecords.com/",
-        "Search": 0
+        "Website": "https://www.burlingtonrecords.com/s/",
+        "Search": 1
         },
         {
         "Store": "Mel's Record Shop",
-        "Website": "https://melsrecordshop.square.site/",
-        "Search": 0
+        "Website": "https://melsrecordshop.square.site/s/",
+        "Search": 1
         },
         {
         "Store": "Dyno Records",
-        "Website": "https://dynorecords.com/shop/",
-        "Search": 0
+        "Website": "https://dynorecords.com/",
+        "Search": "?post_type=product&s="
         },
         {
         "Store": "Joe's Albums",
@@ -217,118 +207,98 @@
         },
         {
         "Store": "Iris Records",
-        "Website": "https://www.irisrecordsjc.com/",
-        "Search": 0
+        "Website": "https://www.irisrecordsjc.com/s/",
+        "Search": 1
         },
         {
         "Store": "Squeezebox Records",
         "Website": "https://shopsqueezeboxrecords.com/",
-        "Search": 0
+        "Search": "shop/ols/search?keywords="
         },
         {
         "Store": "Byrdland Records",
         "Website": "https://shop.byrdlandrecords.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Sorry State Records",
         "Website": "https://www.sorrystaterecords.com/",
-        "Search": 0
-        },
-        {
-        "Store": "Record Bar",
-        "Website": "https://recordbarilm.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Modern Legend",
         "Website": "https://modern-legend.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "The Pour House",
         "Website": "https://the-pour-house-record-shop.myshopify.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Deaf Man",
         "Website": "https://www.deafmanvinyl.com/collections/vinyl",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Yellow Racket",
         "Website": "https://yellowracketcha.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "AndVinyl",
         "Website": "https://www.andvinyl.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Luna Record Shop",
         "Website": "https://lunarecordshop.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Goner Records",
         "Website": "https://goner-records.com/",
-        "Search": 0
-        },
-        {
-        "Store": "Grimey's",
-        "Website": "https://www.grimeys.com/",
-        "Search": 0
-        },
-        {
-        "Store": "Cardinal Record Co",
-        "Website": "https://cardinalrecordco.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Jet Age Records",
         "Website": "https://www.jetagerecords.com/shop/",
-        "Search": 0
+        "Search": "?s="
         },
         {
         "Store": "Roar Records",
         "Website": "https://www.roarrecs.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Torn Light Records",
         "Website": "https://www.tornlightrecords.com/",
-        "Search": 0
+        "Search": "?s="
         },
         {
         "Store": "Spoonful Records",
         "Website": "https://spoonfulrecordsohio.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Shake It Records",
         "Website": "https://www.shakeitrecords.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Vinylgram",
         "Website": "https://vinylgram.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "The Record Lounge",
-        "Website": "https://www.therecordloungereotown.com/",
-        "Search": 0
+        "Website": "https://www.therecordloungereotown.com/s/",
+        "Search": 1
         },
         {
         "Store": "Going Underground",
         "Website": "https://www.goingundergroundrecords.com/",
-        "Search": 0
-        },
-        {
-        "Store": "Ragin Records",
-        "Website": "https://raginrecordsfresno.com/",
-        "Search": 0
+        "Search": "?s="
         },
         {
         "Store": "Programme",
@@ -337,193 +307,168 @@
         },
         {
         "Store": "Third Eye",
-        "Website": "https://www.thirdeyerecordslb.com/",
-        "Search": 0
+        "Website": "https://www.thirdeyerecordslb.com/s/",
+        "Search": 1
         },
         {
         "Store": "High Fidelity",
         "Website": "https://highfidelityla.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Fatbeats",
         "Website": "https://www.fatbeats.com/collections/lp",
-        "Search": 0
-        },
-        {
-        "Store": "Mount Analog",
-        "Website": "https://climbmountanalog.com/home",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Stranded",
         "Website": "https://www.strandedrecords.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Zoinks",
         "Website": "https://www.zoinksrecords.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Power Plant Records",
         "Website": "https://power-plant-records.myshopify.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "The Next Record Store",
-        "Website": "https://the-next-record-store.square.site/",
-        "Search": 0
+        "Website": "https://the-next-record-store.square.site/s/",
+        "Search": 1
         },
         {
         "Store": "Zia Records",
         "Website": "https://www.ziarecords.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Good Day Sunshine",
-        "Website": "https://good-day-sunshine-record-shop.square.site/s/shop",
-        "Search": 0
+        "Website": "https://good-day-sunshine-record-shop.square.site/s/",
+        "Search": 1
         },
         {
         "Store": "Silver Platters",
         "Website": "https://www.silverplatters.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Rainy Day",
-        "Website": "http://rainydayolympia.net/",
-        "Search": 0
+        "Website": "http://rainydayolympia.net/new-music/",
+        "Search": "?query="
         },
         {
         "Store": "Hi-Voltage",
-        "Website": "https://hivoltagerecords.com/collections/all-vinyl?sort_by=title-ascending",
-        "Search": 0
+        "Website": "https://hivoltagerecords.com/",
+        "Search": 1
         },
         {
         "Store": "Atomic Genius",
-        "Website": "https://www.atomicgeniusrecords.com/shop/vinyl/2?page=1&limit=180&sort_by=name&sort_order=asc&item_status=in_stock",
-        "Search": 0
+        "Website": "https://www.atomicgeniusrecords.com/s/",
+        "Search": 1
         },
         {
         "Store": "Adventure Underground",
-        "Website": "https://www.advunderground.com/records",
-        "Search": 0
+        "Website": "https://www.advunderground.com/",
+        "Search": "search?query="
         },
         {
         "Store": "606 Records",
         "Website": "https://www.606records.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Beverly Phono Mart",
         "Website": "https://www.beverlyphonomart.com/",
-        "Search": 0
-        },
-        {
-        "Store": "Bric-a-Brac",
-        "Website": "https://www.bricabracrecords.com/",
-        "Search": 0
+        "Search": "search-results?q="
         },
         {
         "Store": "Dusty Groove",
         "Website": "https://www.dustygroove.com/",
-        "Search": 0
+        "Search": "search.php?sf="
         },
         {
         "Store": "Pinwheel",
-        "Website": "https://pinwheelrecords.square.site/",
-        "Search": 0
+        "Website": "https://pinwheelrecords.square.site/s/",
+        "Search": 1
         },
         {
         "Store": "Record Breakers",
         "Website": "https://shop.recordbreakerschi.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Rediscover",
         "Website": "https://www.rediscoverrecords.com/",
-        "Search": 0
+        "Search": "search.html?searchword="
         },
         {
         "Store": "Waiting Room",
         "Website": "https://waitingroomrecords.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Vals Halla",
         "Website": "https://valshallarecords.com/",
-        "Search": 0
-        },
-        {
-        "Store": "Toad Hall",
-        "Website": "https://toadhallonline.com/",
-        "Search": 0
+        "Search": "?s="
         },
         {
         "Store": "Antone's",
         "Website": "https://antonesrecordshop.com/",
-        "Search": 0
+        "Search": 1
         },
         {
-        "Store": "Spinster ",
+        "Store": "Spinster",
         "Website": "https://www.spinsterrecords.com/collections/all-vinyl",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Good Records",
         "Website": "https://goodrecordstogo.myshopify.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Hybrid",
         "Website": "https://hybridrecordstx.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Fourth Rock",
         "Website": "https://fourthrockrecords.com/",
-        "Search": 0
+        "Search": "?ixwpss="
         },
         {
         "Store": "Record Town",
         "Website": "https://recordtowntx.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Red Zeppelin",
         "Website": "https://redzeppelinrecords.com/",
-        "Search": 0
+        "Search": "search?keyword="
         },
         {
         "Store": "Del Bravo",
         "Website": "https://delbravorecordshop.com/collections",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Spinning Jenny's",
         "Website": "https://www.spinningjennys.com/",
-        "Search": 0
-        },
-        {
-        "Store": "End of an Ear",
-        "Website": "https://www.endofanear.com/",
         "Search": 1
         },
         {
-        "Store": "Angry, Young, and Poor",
-        "Website": "https://www.angryyoungandpoor.com/store/pc/home.asp",
-        "Search": 0
-        },
-        {
         "Store": "CI",
-        "Website": "https://www.cirecordsandskates.com/",
-        "Search": 0
+        "Website": "https://www.cirecordsandskates.com/s/",
+        "Search": 1
         },
         {
         "Store": "A Day in the Life",
-        "Website": "https://aditl-records-lancaster.square.site/",
-        "Search": 0
+        "Website": "https://aditl-records-lancaster.square.site/s/",
+        "Search": 1
         },
         {
         "Store": "Vinyl Fantasy",
@@ -546,11 +491,6 @@
         "Search": "search.php?search_query="
         },
         {
-        "Store": "Rock and Soul",
-        "Website": "https://rockandsoul.com/collections/vinyl-0?view=view-48&grid_list=grid-view&sort_by=title-ascending",
-        "Search": 8
-        },
-        {
         "Store": "Main Street Beat",
         "Website": "https://www.mainstreetbeat.com/#!/",
         "Search": "~/search/keyword="
@@ -568,97 +508,67 @@
         {
         "Store": "Sound Garden",
         "Website": "https://www.sgrecordshop.com/",
-        "Search": 0
+        "Search": 1
         },
         {
         "Store": "Further Records",
         "Website": "https://furtherrecords.com/",
-        "Search": 0
+        "Search": 1
         },
         {
-        "Store": "",
+        "Store": "Rust & Wax",
         "Website": "https://rustandwax.com/",
-        "Search": 0
-        },
-        {
-        "Store": "Spin the Black Circle Records",
-        "Website": "",
-        "Search": null
-        },
-        {
-        "Store": "Pops",
-        "Website": "https://popsresale.com/product-category/music/",
-        "Search": null
+        "Search": 1
         },
         {
         "Store": "CD Central",
         "Website": "https://cdcentral.bigcartel.com/",
-        "Search": null
+        "Search": "products?utf8=✓&search="
         },
         {
         "Store": "Nice Price",
         "Website": "https://nicepriceboo.com/",
-        "Search": null
+        "Search": 1
         },
         {
         "Store": "Off Beat",
-        "Website": "https://www.offbeatjxn.com/",
-        "Search": null
+        "Website": "https://www.offbeatjxn.com/s/",
+        "Search": 1
         },
         {
         "Store": "B's Music Shop",
         "Website": "https://shop.bsmusicshop.com/",
-        "Search": null
+        "Search": 1
         },
         {
         "Store": "Sisters in Christ",
-        "Website": "https://sistersinchrist.space/music/?sort=alpha_asc&filter=default",
-        "Search": null
+        "Website": "https://sistersinchrist.space/",
+        "Search": "?s="
         },
         {
         "Store": "Louisiana Music Factory",
         "Website": "https://www.louisianamusicfactory.com/",
-        "Search": null
-        },
-        {
-        "Store": "Harvest Records",
-        "Website": "https://www.harvest-records.com/",
-        "Search": null
+        "Search": "?s="
         },
         {
         "Store": "1-2-3-4 Go! Records",
         "Website": "https://1234gorecords.com/",
-        "Search": null
-        },
-        {
-        "Store": "Counterpoint",
-        "Website": "https://www.counterpointla.com/",
-        "Search": null
-        },
-        {
-        "Store": "Roundabout Music Co",
-        "Website": "https://www.roundabout-music.com/store/index.php?main_page=index",
-        "Search": null
+        "Search": 1
         },
         {
         "Store": "Mill City Sound",
         "Website": "https://mill-city-sound.shoplightspeed.com/",
-        "Search": null
-        },
-        {
-        "Store": "Tracks Records",
-        "Website": "http://www.tracksrocks.com/",
-        "Search": null
+        "Search": 1
         },
         {
         "Store": "Static Age",
-        "Website": "https://staticagemc.square.site/s/shop",
-        "Search": null
+        "Website": "https://staticagemc.square.site/s/",
+        "Search": 1
         },
         {
-        "Store": "Music Underground",
-        "Website": "https://musicundergroundusa.square.site/",
-        "Search": null
+        "Store": "Rock and Soul",
+        "Website": "https://rockandsoul.com/collections/vinyl-0?view=view-48&grid_list=grid-view&sort_by=title-ascending",
+        "Search": 8
         },
         {
         "Store": "Canandaigua Record Exchange",
@@ -668,6 +578,26 @@
         {
         "Store": "Downtown Music Gallery",
         "Website": "https://downtownmusicgallery.com/index.php",
+        "Search": 9
+        }, 
+		{
+        "Store": "Grimey's",
+        "Website": "https://www.grimeys.com/",
+        "Search": 9
+        },
+        {
+        "Store": "Ragin Records",
+        "Website": "https://raginrecordsfresno.com/",
+        "Search": 9
+        },
+        {
+        "Store": "Mount Analog",
+        "Website": "https://climbmountanalog.com/home",
+        "Search": 9
+        },
+        {
+        "Store": "Sweat",
+        "Website": "https://shop.sweatrecordsmiami.com/",
         "Search": 9
         }
     ]

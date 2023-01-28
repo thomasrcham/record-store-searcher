@@ -118,7 +118,7 @@
         {
         "Store": "Euclid Records",
         "Website": "https://www.euclidrecords.com/",
-        "Search": "catalog/search.jsp?searchwords=rolling+stones"
+        "Search": "catalog/search.jsp?searchwords="
         },
         {
         "Store": "Black Dots",
@@ -273,7 +273,7 @@
         {
         "Store": "Torn Light Records",
         "Website": "https://www.tornlightrecords.com/",
-        "Search": "?s="
+        "Search": "?post_type=product&s="
         },
         {
         "Store": "Spoonful Records",
@@ -298,12 +298,12 @@
         {
         "Store": "Going Underground",
         "Website": "https://www.goingundergroundrecords.com/",
-        "Search": "?s="
+        "Search": "?post_type=product&s="
         },
         {
         "Store": "Programme",
         "Website": "https://www.programmehq.com/",
-        "Search": 0
+        "Search": "?post_type=product&s="
         },
         {
         "Store": "Third Eye",

@@ -117,7 +117,7 @@ const stores = [
   {
     Store: "Euclid Records",
     Website: "https://www.euclidrecords.com/",
-    Search: "catalog/search.jsp?searchwords=",
+    Search: "catalog/search.jsp?action=new&searchwords=",
   },
   {
     Store: "Black Dots",
@@ -246,7 +246,7 @@ const stores = [
   },
   {
     Store: "AndVinyl",
-    Website: "https://www.andvinyl.com/",
+    Website: "https://www.andvinyl.com/s/",
     Search: 1,
   },
   {
@@ -316,7 +316,7 @@ const stores = [
   },
   {
     Store: "Fatbeats",
-    Website: "https://www.fatbeats.com/collections/lp",
+    Website: "https://www.fatbeats.com/",
     Search: 1,
   },
   {
@@ -421,7 +421,7 @@ const stores = [
   },
   {
     Store: "Spinster",
-    Website: "https://www.spinsterrecords.com/collections/all-vinyl",
+    Website: "https://www.spinsterrecords.com/",
     Search: 1,
   },
   {
@@ -456,7 +456,7 @@ const stores = [
   },
   {
     Store: "Del Bravo",
-    Website: "https://delbravorecordshop.com/collections",
+    Website: "https://delbravorecordshop.com/",
     Search: 1,
   },
   {
@@ -552,7 +552,7 @@ const stores = [
   {
     Store: "Louisiana Music Factory",
     Website: "https://www.louisianamusicfactory.com/",
-    Search: "?s=",
+    Search: "?post_type=product&s=",
   },
   {
     Store: "1-2-3-4 Go! Records",
@@ -575,35 +575,21 @@ const stores = [
       "https://rockandsoul.com/collections/vinyl-0?view=view-48&grid_list=grid-view&sort_by=title-ascending",
     Search: 8,
   },
-  {
-    Store: "Canandaigua Record Exchange",
-    Website: "https://canandaiguarecordexchange.com/shop-online.html",
-    Search: 9,
-  },
-  {
-    Store: "Downtown Music Gallery",
-    Website: "https://downtownmusicgallery.com/index.php",
-    Search: 9,
-  },
-  {
-    Store: "Grimey's",
-    Website: "https://www.grimeys.com/",
-    Search: 9,
-  },
-  {
-    Store: "Ragin Records",
-    Website: "https://raginrecordsfresno.com/",
-    Search: 9,
-  },
+  // {
+  //   SEARCH CURRENTLY BROKEN
+  //   Store: "Grimey's",
+  //   Website: "https://www.grimeys.com/",
+  //   Search: 1,
+  // },
   {
     Store: "Mount Analog",
-    Website: "https://climbmountanalog.com/home",
-    Search: 9,
+    Website: "https://climbmountanalog.com/",
+    Search: "?post_type=product&s=",
   },
   {
     Store: "Sweat",
-    Website: "https://shop.sweatrecordsmiami.com/",
-    Search: 9,
+    Website: "https://sweatrecordsmiami.com/",
+    Search: "search/",
   },
 ];
 

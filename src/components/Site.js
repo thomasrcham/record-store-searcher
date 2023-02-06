@@ -1,25 +1,26 @@
-import { useState, useEffect } from "react";
+import $ from "jquery";
+
+import stores from "./stores/stores.js";
 
 export default function Site() {
-  const [stores, setStores] = useState(null);
-
-  useEffect(() => {
-    fetch(`http://localhost:3001/sites/`)
-      .then((r) => r.json())
-      .then((d) => {
-        setStores(d);
-      });
-  }, []);
-
-  let searchable = stores ? stores.filter((s) => s.Search === 1) : null;
+  console.log(stores.length);
 
   const search = (array, term) => {
     let query = term.split(" ").join("+");
-    array.forEach((s) => {
-      let searchStr = s.Search === 1 ? "search?q=" : s.Search;
-      window.open(`${s.Website}${searchStr}${query}`);
-    });
+    loadSource(`https://10000hzrecords.com/`);
+    // array.forEach((s) => {
+    //   let searchStr = s.Search === 1 ? "search?q=" : s.Search;
+    //   window.open(`${s.Website}${searchStr}${query}`);
+    // });
   };
+
+  function loadSource(url) {
+    $.ajax({
+      url: url,
+    }).done(function (html) {
+      console.log(html); // append the html to the element with the ID 'vid'
+    });
+  }
 
   return (
     <form

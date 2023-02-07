@@ -354,11 +354,12 @@ const stores = [
     Website: "https://www.silverplatters.com/",
     Search: 1,
   },
-  {
-    Store: "Rainy Day",
-    Website: "http://rainydayolympia.net/new-music/",
-    Search: "?query=",
-  },
+  // {
+  //   ~CANNOT BUY ONLINE~
+  //   Store: "Rainy Day",
+  //   Website: "http://rainydayolympia.net/new-music/",
+  //   Search: "?query=",
+  // },
   {
     Store: "Hi-Voltage",
     Website: "https://hivoltagerecords.com/",
@@ -576,7 +577,7 @@ const stores = [
     Search: 8,
   },
   // {
-  //   SEARCH CURRENTLY BROKEN
+  //   ~SEARCH CURRENTLY BROKEN~
   //   Store: "Grimey's",
   //   Website: "https://www.grimeys.com/",
   //   Search: 1,
